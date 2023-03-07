@@ -1,0 +1,147 @@
+body {
+    font-family: 'Poppins';
+}
+
+
+
+/* nav style */
+
+/* nav .row {
+    height: 50px;
+} */
+
+nav .container {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+nav .text-start a {
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+nav .text-end a {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+nav .user-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+
+
+/* section style */
+
+section {
+    height: 500px;
+    margin-top: 25px;
+}
+
+section .food-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+section .food-smaller {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+section .my-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section .my-search {
+    width: 60%;
+}
+
+section .my-title {
+    margin-top: 100px;
+}
+
+section .btn {
+    background-color: #EFC81A;
+    border-color: #EFC81A;
+}
+
+section .firstRow {
+    margin-bottom: 60px;
+}
+
+
+
+/* footer style */
+
+footer {
+    margin-top: 200px;
+}
+
+footer .firstRow {
+    height: 250px;
+}
+
+footer .firstRow .col-lg-8 {
+    height: 200px;
+}
+
+footer .secondRow {
+    height: 50px;
+}
+
+footer {
+    background-color: #EFC81A;
+}
+
+footer a {
+    margin: 0px 10px;
+}
+
+footer h1 {
+    margin: 50px 0px;
+}
+
+
+/* psudeo class */
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.btn:hover {
+    background-color: white;
+    border-color: #EFC81A;
+    color: #EFC81A;
+}
+
+
+
+/* class */
+
+.my-color-blue {
+    color: #2E266F;
+}
+
+.yellow-hr {
+    border: 5px solid #EFC81A;
+}
+
+.my-bg-grey {
+    background-color: #F6F5F4;
+}
+
+.yellow-block {
+    background-color: #EFC81A;
+    padding-top: 15px;
+    border-radius: 100px;
+}

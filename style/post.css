@@ -1,0 +1,118 @@
+body {
+    font-family: 'Poppins';
+}
+
+
+
+/* nav style */
+
+/* nav .row {
+    height: 50px;
+} */
+
+nav .container {
+    margin-top: 20px
+}
+
+nav .text-start a {
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+nav .text-end a {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+nav img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+
+
+/* section style */
+
+/* section {
+    height: 750px;
+} */
+
+section .container .my-form {
+    width: 80%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+section .container .my-form textarea {
+    resize: none;
+}
+
+section .my-button button {
+    width: 30%;
+    background-color: #EFC81A;
+    border-color: #EFC81A;
+}
+
+section .my-select select {
+    width: 30%;
+}
+
+
+
+
+/* footer style */
+
+footer .firstRow {
+    height: 250px;
+}
+
+footer .firstRow .col-lg-8 {
+    height: 200px;
+}
+
+footer .secondRow {
+    height: 50px;
+}
+
+footer {
+    background-color: #EFC81A;
+}
+
+footer a {
+    margin: 0px 10px;
+}
+
+footer h1 {
+    margin: 50px 0px;
+}
+
+
+
+/* psudeo class */
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.btn:hover {
+    background-color: white;
+    border-color: #EFC81A;
+    color: #EFC81A;
+}
+
+
+
+/* class */
+
+.my-color-blue {
+    color: #2E266F;
+}
+
+.my-bg-grey {
+    background-color: #F6F5F4;
+}

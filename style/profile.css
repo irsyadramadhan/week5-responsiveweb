@@ -1,0 +1,156 @@
+body {
+    font-family: 'Poppins';
+}
+
+
+
+/* nav style */
+
+/* nav .row {
+    height: 50px;
+} */
+
+nav .container {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+nav .text-start a {
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+nav .text-end a {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+nav .user-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+
+
+/* section style */
+
+section .user-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+section .food-img {
+    height: 200px;
+    width: auto;
+    /* margin: auto; */
+}
+
+section .my-row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section .hr-row {
+    margin-top: -25px;
+}
+
+section textarea {
+    resize: none;
+}
+
+section .btn-blue{
+    color: white;
+    background-color: #30C0F3;
+    border-color: #30C0F3;
+}
+
+section .btn-red{
+    color: white;
+    background-color: #F57E71;
+    border-color: r#F57E71;
+}
+
+section .btn-blue:hover {
+    color: #30C0F3;
+    background-color: white;
+    border-color: #30C0F3;
+}
+
+section .btn-red:hover {
+    color: #F57E71;
+    background-color: white;
+    border-color: r#F57E71;
+}
+
+/* footer style */
+
+footer .firstRow {
+    height: 250px;
+}
+
+footer .firstRow .col-lg-8 {
+    height: 200px;
+}
+
+footer .secondRow {
+    height: 50px;
+}
+
+footer {
+    background-color: #EFC81A;
+}
+
+footer a {
+    margin: 0px 10px;
+}
+
+footer h1 {
+    margin: 50px 0px;
+}
+
+
+
+/* psudeo class */
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.btn:hover {
+    background-color: white;
+    border-color: #EFC81A;
+    color: #EFC81A;
+}
+
+
+
+/* class */
+
+.my-color-blue {
+    color: #2E266F;
+}
+
+.yellow-hr {
+    border: 5px solid #EFC81A;
+}
+
+.my-bg-grey {
+    background-color: #F6F5F4;
+}
+
+.yellow-block {
+    background-color: #EFC81A;
+    padding-top: 15px;
+    border-radius: 100px;
+}
+
+.btn-blue {
+    background-color: #30C0F3;
+    border-color: #30C0F3;
+}

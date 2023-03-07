@@ -1,0 +1,43 @@
+.top-section {
+    margin-top: 90px;
+}
+
+.form-section {
+    width: 25%;
+    margin: auto;
+}
+
+hr {
+    width: 25%;
+    margin: auto;
+    color: #F5F5F5;
+}
+
+.container {
+    font-family: Poppins;
+}
+
+.container h5 {
+    color: #EFC81A;
+    font-weight: bold;
+}
+
+.container a {
+    color: #EFC81A;
+}
+
+.btn {
+    background-color: #EFC81A;
+    border-color: #EFC81A;
+}
+
+.btn:hover {
+    background-color: white;
+    border-color: #EFC81A;
+    color: #EFC81A;
+}
+
+.form-check-input:checked {
+    background-color: #EFC81A;
+    border-color: #EFC81A;
+}

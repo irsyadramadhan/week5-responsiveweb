@@ -1,0 +1,117 @@
+body {
+    font-family: 'Poppins';
+}
+
+
+
+/* nav style */
+
+/* nav .row {
+    height: 50px;
+} */
+
+nav .container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav .text-start a {
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+nav .text-end a {
+    margin-left: 10px;
+    margin-top: 25px;
+}
+
+nav .user-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+
+
+/* section style */
+
+section .container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section .food-img img {
+    width: 200px;
+    height: 200px;
+}
+
+section .user-img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
+/* section .row {
+    margin-bottom: 20px;
+} */
+
+
+/* footer style */
+
+footer .firstRow {
+    height: 250px;
+}
+
+footer .firstRow .col-lg-8 {
+    height: 200px;
+}
+
+footer .secondRow {
+    height: 50px;
+}
+
+footer {
+    background-color: #EFC81A;
+}
+
+footer a {
+    margin: 0px 10px;
+}
+
+footer h1 {
+    margin: 50px 0px;
+}
+
+
+
+/* psudeo class */
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* my-class */
+
+.my-color-blue {
+    color: #2E266F;
+}
+
+.my-color-yellow {
+    background-color: #EFC81A;
+    border-color: #EFC81A;
+}
+
+.my-color-green {
+    background-color: #00E092;
+    border-color: #00E092;
+}
+
+/* .my-text-sm {
+    font-size: small;
+} */
